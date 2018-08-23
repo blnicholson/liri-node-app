@@ -8,9 +8,7 @@ Example for a movie search: node liri.js movie-this The Burbs
 ## **Commands for LIRI**
 1. Band Search Command: **concert-this**
 2. Song Search Command: **spotify-this-song**
-3. Movie Search Command: **movie-this**
-## **Link To App**
-https://blnicholson.github.io/liri-node-app/. 
+3. Movie Search Command: **movie-this** 
 ## **Technical Information**
 This app was created by using the following:
 * JavaScript
