@@ -1,0 +1,23 @@
+----------Movie Search Information----------
+Title: Top Gun
+Year: 1986
+IMDB Rating: 6.9/10
+Rotten Tomatoes Rating: 54%
+Country: USA
+Language: English
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards 
+  
+ ----------Concert Information----------
+Artist Name: Drake
+Venue: "Scotiabank Arena"
+Location: "Toronto, Canada"
+Date: 08-22-2018 
+  
+ ----------Spotify Search Results----------
+Artist Name: "Patrick Swayze"
+Song Name: "She's Like the Wind"
+Preview URL: "https://p.scdn.co/mp3-preview/0890dae2411fa79f6b9523d2eff5b98a1a434db2?cid=3b0ed52f2d59488c8992d98f26f977fd"
+Album Name: "Dirty Dancing (Original Motion Picture Soundtrack)" 
+  
+ 
