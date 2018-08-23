@@ -6,9 +6,9 @@ Find out where your favorite band will be playing, information about movies, and
 To use LIRI you need to have node.js and the npms that were used in the program. To install the npm's do npm install in the command line.  The searches are performed by typing in a specific command depending on if its a band, movie, or song that you are searching for. To perform a search you will need to type in the command line: **node liri.js <command for either movie, song, or band> <song, movie, or band name>**
 Example for a movie search: node liri.js movie-this The Burbs
 ## **Commands for LIRI**
-Band Search Command: **concert-this**
-Song Search Command: **spotify-this-song**
-Movie Search Command: **movie-this**
+1. Band Search Command: **concert-this**
+2. Song Search Command: **spotify-this-song**
+3. Movie Search Command: **movie-this**
 ## **Link To App**
 https://blnicholson.github.io/liri-node-app/. 
 ## **Technical Information**
