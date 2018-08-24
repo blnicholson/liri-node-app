@@ -19,6 +19,7 @@ This app was created by using the following:
    Bands in Town
    Spotify
    OMDB
+   
 ## **Application Images**
 
 **Concert Search**
