@@ -20,6 +20,7 @@ This app was created by using the following:
    Spotify
    OMDB
 ## **Application Images**
+
 **Concert Search**
 ![Alt text](images/concertThis.png)
 
