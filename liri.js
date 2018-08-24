@@ -9,6 +9,7 @@ var spotify = new Spotify(keys.spotify)
 var userCommand=process.argv[2];
 var userInput=process.argv;
 var input="";
+//For Loop
  for(var i=3; i<userInput.length; i++){
      if (i > 3 && i < userInput.length){
        input=input+"+"+userInput[i];
@@ -17,7 +18,7 @@ var input="";
          input+= userInput[i];
      }
  }
- 
+ //Switch/Case
  switch (userCommand){
     case "concert-this":
        bandSearch();
@@ -68,6 +69,7 @@ function bandSearch(){
           console.log("Error Occurred " + err)
           return;
       }
+    console.log("-----Concert Search Information-----")
     console.log("Venue: " + JSON.stringify(events[0].venue.place))
     console.log("Location: " + JSON.stringify(events[0].formatted_location,null,2))
      var date = moment(events[0].datetime).format("MM-DD-YYYY");
@@ -88,6 +90,7 @@ spotify.search({ type: 'track', query: input }, function(err,data) {
      console.log("Error occurred: " + err);
     return;
    }
+   console.log("-----Spotify Search Information-----")
       // Artist
     console.log("Artist Name: " + JSON.stringify(data.tracks.items[0].artists[0].name));
     //Song Name
@@ -111,6 +114,7 @@ function movieSearch(input){
   var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
   request(queryUrl, function(error, response,body){
     if(!error && response.statusCode === 200) {
+      console.log("-----Movie Search Information-----")
       console.log("Title: " + JSON.parse(body).Title);
       console.log("Year: "+ JSON.parse(body).Year);
       console.log("IMDB Rating: " + JSON.parse(body).Ratings[0].Value);

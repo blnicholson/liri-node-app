@@ -1,23 +1,23 @@
 ----------Movie Search Information----------
-Title: Top Gun
-Year: 1986
+Title: Dirty Dancing
+Year: 1987
 IMDB Rating: 6.9/10
-Rotten Tomatoes Rating: 54%
+Rotten Tomatoes Rating: 72%
 Country: USA
 Language: English
-Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
-Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards 
+Plot: Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.
+Actors: Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodes 
   
  ----------Concert Information----------
 Artist Name: Drake
-Venue: "Scotiabank Arena"
-Location: "Toronto, Canada"
-Date: 08-22-2018 
+Venue: "Madison Square Garden"
+Location: "New York, NY"
+Date: 08-24-2018 
   
  ----------Spotify Search Results----------
-Artist Name: "Patrick Swayze"
-Song Name: "She's Like the Wind"
-Preview URL: "https://p.scdn.co/mp3-preview/0890dae2411fa79f6b9523d2eff5b98a1a434db2?cid=3b0ed52f2d59488c8992d98f26f977fd"
-Album Name: "Dirty Dancing (Original Motion Picture Soundtrack)" 
+Artist Name: "Audien"
+Song Name: "Higher"
+Preview URL: "https://p.scdn.co/mp3-preview/4c63102dad59d4b761f7c24a3494c2d80100237b?cid=3b0ed52f2d59488c8992d98f26f977fd"
+Album Name: "Higher" 
   
  
