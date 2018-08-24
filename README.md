@@ -14,11 +14,11 @@ This app was created by using the following:
 * JavaScript
 * Node
 * npms
-   request
-   Moment
-   Bands in Town
-   Spotify
-   OMDB
+   1. request
+   2. Moment
+   3. Bands in Town
+   4. Spotify
+   5. OMDB
    
 ## **Application Images**
 
