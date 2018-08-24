@@ -22,7 +22,7 @@ This app was created by using the following:
    
 ## **Application Images**
 
-**Concert Search**
+
 ![Alt text](images/concertThis.png)
 
 **Movie Search**
