@@ -20,4 +20,7 @@ This app was created by using the following:
    Spotify
    OMDB
 ## **Application Images**
-![Alt text](images/concertThis.PNG)
+
+![Alt text](images/concertThis.png)
+![Alt text](images/movieThis.png)
+![Alt text](images/spotifyThis.png)
